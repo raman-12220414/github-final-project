@@ -1,0 +1,5 @@
+$ git branch
+
+* main
+  bug-fix
+  bug-fix-revert
